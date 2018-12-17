@@ -1,4 +1,5 @@
 # Online-Grocery-Retail---Prediction-and-Recommendation
+Project based on Kaggle – Instacart Market Basket Analysis
 ## Summary
 Want more personalized grocery recommendations to accommodate your shopping style? Want to save frequent trips to the market? Instacart is a same day grocery delivery app which provides delivery as fast as one hour. Instacart provides personal shoppers, who can shop and deliver groceries at your doorstep saving you time and money. 
 Using the Instacart Public Datasets, we are focusing on solving following problems: 
